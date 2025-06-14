@@ -1,34 +1,4 @@
-'use client'
-
 import React from 'react'
-import auc1 from '@/public/projects/airbnb.jpg'
-import Image from "next/image";
-import Button from './Button';
-import { House, HouseIcon, LandPlot } from 'lucide-react';
-import { PiBuildingApartment } from 'react-icons/pi';
-
-const auctions = [
-  {
-    id: 1,
-    title: "Residential Apartment",
-    price: "20000",
-    location: "",
-    type: "land",
-    description: "Situated in uae ...",
-    recent: true,
-    image: auc1.src
-  },
-  {
-    id: 2,
-    title: "Residential Apartment",
-    price: "20000",
-    location: "",
-    type: "land",
-    description: "Situated in uae ...",
-    recent: true,
-    image: auc1.src
-  },
-]
 
 const Places = () => {
   return (

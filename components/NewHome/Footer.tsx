@@ -14,7 +14,7 @@ const Footer = () => {
             <p className="text-[15px] mt-3">Then let&apos;s get acquainted.</p>
 
                 <div className=" flex flex-col gap-3">
-                  <div className="flex gap-3">
+                  <div className="flex flex-col md:flex-row gap-3">
                     <h1 className='tracking-tighter font-normal text-[17px] md:text-2xl mb-2'>
                       020 7206 2551
                     </h1>

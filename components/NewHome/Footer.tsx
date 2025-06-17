@@ -10,21 +10,21 @@ const Footer = () => {
             
           <div className='  flex flex-col lg:justify-end'>
             <h1 className=' tracking-tighter text-3xl lg:text-5xl'> Ready to invest in  </h1>
-            <h1 className='tracking-tighter text-3xl lg:text-5xl'>Limegroup real estate? </h1>
+            <h1 className='tracking-tighter text-3xl lg:text-5xl'>Estategroup real estate? </h1>
             <p className="text-[15px] mt-3">Then let&apos;s get acquainted.</p>
 
                 <div className=" flex flex-col gap-3">
                   <div className="flex flex-col md:flex-row gap-3">
                     <h1 className='tracking-tighter font-normal text-[17px] md:text-2xl mb-2'>
-                      020 7206 2551
+                      010 1234 5678
                     </h1>
                     <h1 className='tracking-tighter font-normal text-[17px] md:text-2xl mb-2'>
-                      kash@limeauctionhouse.co.uk
+                      estategrp@estateauctionhouse.co.uk
                     </h1>
                   </div>
                   <div className="">
                     <h1 className='tracking-tighter font-normal text-[17px] md:text-2xl mb-2'>
-                      OR &nbsp;limewealth@gmail.com
+                      OR &nbsp;estategrpwealth@gmail.com
                     </h1>
                   </div>
 

@@ -253,7 +253,7 @@ const handleClickNav = (e: React.MouseEvent<HTMLAnchorElement>) => {
                     <div className=' flex gap-2'>
                         <a href="/" className='flex gap-2 items-center'>
                         {/* <Image src={logo} alt='logo' className='dark:invert-0 w-[60px] ' /> */}
-                            <span className='text-xl tracking-tighter font-semibold'>Limegroup</span>
+                            <span className='text-xl tracking-tighter font-semibold'>Estategroup</span>
                         </a>
                     </div>
                     <div className='flex items-center gap-4'>

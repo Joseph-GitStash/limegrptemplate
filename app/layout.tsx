@@ -12,9 +12,9 @@ const archivo = Archivo({
 })
 
 export const metadata: Metadata = {
-  title: "Lime group",
+  title: "Estate group",
   description: "Brilliant minds behind real estate investment strategies",
-  keywords: ["Real estate investment", "Property auctions", "limegroup real estate"]
+  keywords: ["Real estate investment", "Property auctions"]
 };
 
 export default function RootLayout({

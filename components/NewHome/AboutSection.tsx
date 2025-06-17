@@ -24,7 +24,7 @@ const AboutSection = () => {
         <div className="border mb-1 px-2 max-w-fit text-white">02</div>
         
         <h2 className='text-white font-semibold tracking-tighter text-3xl md:text-5xl ' ref={scope} >
-          LimeGroup is a real estate agency founded on a passion for commitment to sustainabilty, we are a team who approach every client with dedication, integrity, respect and a deep understanding for the needs of our clients.
+          EstateGroup is a real estate agency founded on a passion for commitment to sustainabilty, we are a team who approach every client with dedication, integrity, respect and a deep understanding for the needs of our clients.
         </h2>
 
       </div>
